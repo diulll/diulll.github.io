@@ -84,7 +84,7 @@ const translations = {
         'hero-subtitle': 'Saya adalah seorang front-end developer yang membuat website responsif di mana teknologi bertemu dengan kreativitas',
         'contact-btn': 'Hubungi Saya !!',
         'about-title': '#tentang-saya',
-        'about-greeting': 'Halo, saya Ulso! Saya seorang pengembang front-end otodidak yang tinggal di Yogyakarta, Indonesia. Saya dapat mengembangkan situs web responsif yang ramah pengguna. Mengubah kreativitas dan pengetahuan saya menjadi situs web telah menjadi hasrat saya selama lebih dari setahun. Saya telah membantu berbagai klien untuk membangun kehadiran mereka secara daring. Saya selalu berusaha untuk mempelajari teknologi dan kerangka kerja terbaru.',
+        'about-greeting': 'Halo, saya Nauval Badiul Fikri Alhadad Hs! Saya seorang pengembang front-end otodidak yang tinggal di Yogyakarta, Indonesia. Saya dapat mengembangkan situs web responsif yang ramah pengguna. Mengubah kreativitas dan pengetahuan saya menjadi situs web telah menjadi keinginan saya selama lebih dari setahun. Saya telah membantu berbagai klien untuk membangun kehadiran mereka secara daring. Saya selalu berusaha untuk mempelajari teknologi dan kerangka kerja terbaru.',
         'contacts-title': '#kontak',
         'contacts-description': 'Jika tertarik dengan peluang freelance, kerja tim, proyek atau pertanyaan, jangan ragu untuk menghubungi saya!',
         'message-here': 'Kirim pesan di sini',
